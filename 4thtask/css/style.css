@@ -1,0 +1,17 @@
+.bgPink {
+    background-color: #9575cd;
+}
+.bglightPink{
+        background-color: #d1c4e9;
+}
+@media (max-width:768px){
+    .hidden-xs{
+        display:none !important;
+    }
+}
+body{
+    scroll-behavior: smooth;
+}
+*{
+    scroll-behavior: smooth;
+}
